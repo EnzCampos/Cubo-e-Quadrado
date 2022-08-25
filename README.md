@@ -1,4 +1,4 @@
-# Cubo-e-Quadrado
+# Cubo e Quadrado
 
 # Tarefa Programação Nivél 2 OBL
 
